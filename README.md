@@ -1,6 +1,7 @@
 # 📊 E-Commerce Profitability Analysis Using SQL
 
 Welcome to this exploratory data project where I analyzed an e-commerce dataset to uncover insights about **profitability, customer behavior, returns, shipping efficiency, and discount impact** — all through SQL.
+
 ![Cover Page](cover.png)
 ---
 
