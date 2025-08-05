@@ -13,7 +13,7 @@ All queries were written in MySQL-style syntax and can be run inside a SQL envir
 
 ---
 
-## 🧠 Key Business Questions Answered
+## Key Business Questions Answered
 
 ✅ Which products and categories are **consistently unprofitable**?  
 ✅ How do **discounts impact profit margins** across orders?  
@@ -27,7 +27,7 @@ All queries were written in MySQL-style syntax and can be run inside a SQL envir
 
 ---
 
-## 🗂️ Dataset Description
+## 🗂Dataset Description
 
 The dataset simulates an e-commerce platform and includes the following fields:
 
@@ -59,7 +59,7 @@ The dataset simulates an e-commerce platform and includes the following fields:
 
 ---
 
-## 📈 Sample Insights
+## Sample Insights
 
 - Some product categories (especially high-discounted ones) contribute **negatively to overall profit**.
 - **Returns** significantly reduce profit margins in the Consumer segment.
